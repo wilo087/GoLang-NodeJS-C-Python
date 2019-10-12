@@ -9,7 +9,7 @@ function main(){
   let end = Date.now()
   let duration = (end - start) / 1000
 
-  console.info(`Javascript looped ${cycles} in ${duration} seconds`)
+  console.info(`NodeJS looped ${cycles} in ${duration} seconds`)
 }
 
 main();
