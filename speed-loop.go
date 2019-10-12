@@ -14,5 +14,6 @@ func main() {
 
 	elapsed := end.Sub(start)
 
-	fmt.Println(elapsed)
+	output := fmt.Sprintf("Go looped 1,000,000,000 time in %s ", elapsed)
+	fmt.Println(output)
 }
