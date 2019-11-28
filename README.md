@@ -1,4 +1,4 @@
-# Node vs C vs Python
+# Speed test, GoLang, NodeJS, C, Python
 Scripts that show which is faster between NodeJS, C, Python and Go
 
 ## Result on MacBook Pro 
