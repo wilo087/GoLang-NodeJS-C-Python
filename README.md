@@ -42,4 +42,4 @@ node speed-loop.js
 ```
 
 ### This test was made with
-[MacBook Pro]('https://raw.githubusercontent.com/wilo087/Node-vs-C-Python/master/mac-specifications.png')
+![MacBook Pro]('https://raw.githubusercontent.com/wilo087/Node-vs-C-Python/master/mac-specifications.png')
