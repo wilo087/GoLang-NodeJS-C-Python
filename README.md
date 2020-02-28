@@ -9,7 +9,7 @@ Scripts that compare looping speed between NodeJS, C, Python and Go
 
 ## Do you want to test by you? 
 
-### Languages versions
+### Language versions
 * Golang version go1.13.1 darwin/amd64
 * Node v10.16.3
 * Clang version 11.0.0 (clang-1100.0.33.8)
