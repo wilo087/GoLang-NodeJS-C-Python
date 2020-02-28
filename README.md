@@ -30,5 +30,5 @@ node speed-loop.js
 go run speed-loop.go
 ```
 
-### Specs for the result showed above
+### Specs for the results showed above
 ![Alt text](mac-specifications.png?raw=true "MacBook Pro specs")
