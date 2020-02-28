@@ -30,5 +30,5 @@ node speed-loop.js
 go run speed-loop.go
 ```
 
-### This test was made with
-![MacBook Pro]('https://raw.githubusercontent.com/wilo087/Node-vs-C-Python/master/mac-specifications.png')
+### Specs for the result showed above
+![Alt text](mac-specifications.png?raw=true "MacBook Pro specs")
