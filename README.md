@@ -1,4 +1,4 @@
-# Speed test for Go, Node, C and Python
+# Performance test between Go, Node, C and Python
 Scripts that compare looping speed between NodeJS, C, Python and Go
 
 ## Result on MacBook Pro 
