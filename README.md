@@ -1,13 +1,13 @@
-# Speed test, GoLang, NodeJS, C, Python
+# Speed test for Go, Node, C and Python
 Scripts that compare looping speed between NodeJS, C, Python and Go
 
 ## Result on MacBook Pro 
-1.  Go looped 1,000,000,000 times in `292.138231 ms`
+1.  Go looped 1,000,000,000 times in `0.292 seconds` (292 ms) 
 2.  NodeJS looped 1,000,000,000 times in `0.587 seconds` (587 ms)
 3.  C looped 1,000,000,000 times in `2.394147 seconds`
 4.  Python3 looped 1,000,000,000 times in `22.139064056000002 seconds`
 
-## Do you want to test by you? 
+## Do you want to test by you self? 
 
 ### Language versions
 * Golang version go1.13.1 darwin/amd64
